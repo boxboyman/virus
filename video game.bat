@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 color 2
 :Start
