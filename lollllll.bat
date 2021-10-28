@@ -11,7 +11,7 @@
 
 using namespace std;
 
-const char msg1[]="This is Yourdoom.  this malware is just for experimental purposes only";
+const char msg1[]="This is Yourdoom.  this malware is not for educational purposes, fuck you";
 
 //please add a backdoor component, email harvester and SMTP engine please?? i don't know how :(
 
