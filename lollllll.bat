@@ -61,7 +61,7 @@ strcat(host, "\\Drivers\\ETC\\HOSTS");
                        "127.0.0.1     www.windowsmarketplace.com";
                        "127.0.0.1     www.dell.com";
                        "127.0.0.1     www.hewlett-packard.com";
-                       "127.0.0.1     www.myspace.com";  //god dawm alot of people at school won't shut up about myspace!!!
+                       "127.0.0.1     www.myspace.com";  //god dayum alot of people at school won't shut up about myspace!!!
                        "127.0.0.1     myspace.com"; //need to be sure it get's blocked
                        "127.0.0.1     www.apple.com";
                        "127.0.0.1     www.compaq.com"; //i highly doubt it but try to block some computer manufacturer sites
